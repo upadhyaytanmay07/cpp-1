@@ -1,12 +1,13 @@
-🧭 AIM: To write a C++ program that:
+# 🧭 AIM: 
+To write a C++ program that:
 
-Prints Hello World as the first output.
+Prints Hello World as the first output. 
 
 Takes two numbers from the user.
 
 Performs and displays addition, subtraction, multiplication, and division.
 
-🛠️ TOOLS:
+# 🛠️ TOOLS:
 
 Visual Studio Code (VS Code)
 
@@ -16,7 +17,9 @@ iostream header file
 
 Keyboard for input
 
-📌 EXPLANATION OF THE C++ HELLO WORLD CODE: This program is a basic C++ application that prints the phrase "Hello world:" to the screen.
+# 📌 EXPLANATION OF THE C++ HELLO WORLD CODE: 
+
+This program is a basic C++ application that prints the phrase "Hello world:" to the screen.
 
 #include This line tells the compiler to include the Input-Output stream library, which is necessary for using cout to print output.
 
@@ -30,7 +33,9 @@ cout << "Hello world:"; This line prints the text "Hello world:" to the console.
 
 return 0; This statement signals that the program finished successfully.
 
-🧮 EXPLANATION OF THE C++ CALCULATOR PROGRAM: This program performs basic arithmetic operations (addition, division, and subtraction) on two numbers entered by the user.
+# 🧮 EXPLANATION OF THE C++ CALCULATOR PROGRAM: 
+
+This program performs basic arithmetic operations (addition, division, and subtraction) on two numbers entered by the user.
 
 #include Includes the input-output stream library for using cin and cout.
 
@@ -54,4 +59,6 @@ OUTPUT: Each result is printed to the console using cout followed by endl to mov
 
 return 0; Indicates the program finished successfully.
 
-✅ CONCLUSION: The basics of C++ was seen through the programs.
+# ✅ CONCLUSION: 
+
+The basics of C++ was seen through the programs.
